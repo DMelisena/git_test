@@ -1,0 +1,5 @@
+Let's see if i change this, what would appear on git status
+Turn's out this file is modified, then I would need to $ git add hell... once again no?
+Ohh turns out the ctrl+1234 is like the windows+1234 on linux's TWM and alt+1234 on firefox's tabs
+while ctrl+` would allow me to open terminal
+It still confuses me tho, regarding the difference between commit and add
